@@ -16,6 +16,10 @@
 
 	<properties>
 		<java.version>1.8</java.version>
+		<sonar.projectKey>AishwaryaM26_productrepo</sonar.projectKey>
+  		<sonar.organization>aishwaryam26</sonar.organization>
+ 		 <sonar.host.url>https://sonarcloud.io</sonar.host.url>
+  		<sonar.login>48f1294be921e8780170b5fd4df0cfac056d9a17</sonar.login>
 	</properties>
 	
 	<dependencyManagement>
